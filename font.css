@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'regular' ;
+    src: url(font/Rubik-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: 'semibold' ;
+    src: url(font/Rubik-SemiBold.ttf);
+}
+
+
+@font-face {
+    font-family: 'light' ;
+    src: url(font/Rubik-Light.ttf);
+}
